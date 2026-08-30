@@ -1,0 +1,6 @@
+{
+  "name": "Minecraft Pixel Art Generator",
+  "description": "Convert images into Minecraft block patterns with authentic 16x16 block textures, grid overlay, customizable palettes, commands, and layer builder guides.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
